@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kettle", "Kettle\Kettle.csproj", "{831AAAFB-64EA-4FCC-A63B-714145ABECA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kettle.Model", "Kettle.Model\Kettle.Model.csproj", "{4D784720-7B67-477B-96B1-8496C2D58D79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kettle.Tests", "Kettle.Tests\Kettle.Tests.csproj", "{D7DC4B54-E20A-4994-A097-3FA50133852F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{0DC80A21-7A57-4823-BEE8-F9EE4780D7EE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831AAAFB-64EA-4FCC-A63B-714145ABECA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831AAAFB-64EA-4FCC-A63B-714145ABECA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831AAAFB-64EA-4FCC-A63B-714145ABECA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831AAAFB-64EA-4FCC-A63B-714145ABECA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D784720-7B67-477B-96B1-8496C2D58D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D784720-7B67-477B-96B1-8496C2D58D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D784720-7B67-477B-96B1-8496C2D58D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D784720-7B67-477B-96B1-8496C2D58D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DC4B54-E20A-4994-A097-3FA50133852F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DC4B54-E20A-4994-A097-3FA50133852F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DC4B54-E20A-4994-A097-3FA50133852F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DC4B54-E20A-4994-A097-3FA50133852F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A1C15C-B758-43CE-A718-43EB0B66261B}
+	EndGlobalSection
+EndGlobal
