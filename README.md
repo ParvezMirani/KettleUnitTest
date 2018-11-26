@@ -36,3 +36,4 @@ It is not needed to add any other dependencies to the controller.
 - The switchable components are idempotent and can safely be called multiple times.
 - The Kettle controller will always be initialised with all the components off
 
+### Solutions Can be found in this Repository
